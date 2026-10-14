@@ -1,4 +1,4 @@
-# A LinkStack Theme
+# ATHF Theme
 Find more themes: https://linkstack.org/themes
                                                                                                                                                                          
 *	Theme Name: ATHF
