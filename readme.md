@@ -1,20 +1,10 @@
 # A LinkStack Theme
-Find more themes: https://github.com/JulianPrieber/llc-themes
+Find more themes: https://linkstack.org/themes
                                                                                                                                                                          
-*	Theme Name: ThemeName
+*	Theme Name: ATHF
 *	Theme Version: 1.0
-*	Theme Date: YYYY-MM-DD
-*	Theme Author: YourGitHubName
-*	Theme Author URI: https://github.com/YourGitHubName
-*	Theme License: GPLv3
-*	Source code: https://github.com/YourGitHubName/ThemeName
-
-
-### Used assets:
-* Built using:
-* https://github.com/dhg/Skeleton
-* License: MIT
-
-*
-* ...
-*
+*	Theme Date: 2026-10-14
+*	Theme Author: Brennan Skaggs
+*	Theme Author URI: https://github.com/br3n-sk4ggs
+*	Theme License: Personal Use
+*	Source code: https://github.com/br3n-sk4ggs/athf-theme
